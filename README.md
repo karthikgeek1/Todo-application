@@ -1,2 +1,3 @@
 # Todo-application
-![image](https://user-images.githubusercontent.com/104209441/194740983-189a35ce-d92d-4452-bc06-bab1778ec26c.png)
+![image](https://user-images.githubusercontent.com/104209441/194741003-75e7df9c-574d-428d-abad-fc0239445035.png)
+
